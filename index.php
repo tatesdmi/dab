@@ -1,2087 +1,1002 @@
-<!DOCTYPE html>
-<html lang="ru-RU" prefix="og: http://ogp.me/ns#" >
-<head>
-	<noscript></noscript>
+<!DOCTYPE html><html ><head>
+    <meta charset="UTF-8">
+    <title>Body Art | Pocetna </title>
+    <!-- Stylesheets -->
+    <link href="bootstrap.css" rel="stylesheet">
+
+    <link href="style.css" rel="stylesheet">
+    <link href="responsive.css" rel="stylesheet">
+
+    <!-- Color Switcher Mockup -->
+    <link href="color-switcher-design.css" rel="stylesheet">
+
+    <!-- Color Themes -->
+    <link id="theme-color-file" href="brown-theme.css" rel="stylesheet">
+
+    <link href="css2.css" rel="stylesheet">
+
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+    
+    <style>
+        .glow {
+            color: #fff;
+            animation: glow 1s ease-in-out infinite alternate;
+        }
+
+        @-webkit-keyframes glow {
+            from {
+                text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #341382, 0 0 40px #341382, 0 0 50px #341382, 0 0 60px #341382, 0 0 70px #341382;
+            }
+  
+            to {
+                text-shadow: 0 0 20px #fff, 0 0 30px #290f68, 0 0 40px #290f68, 0 0 50px #290f68, 0 0 60px #290f68, 0 0 70px #290f68, 0 0 80px #290f68;
+            }
+        }
+    </style>
 </head>
-<body class="home page-template page-template-template-mainpage page-template-template-mainpage-php page page-id-2 wp-embed-responsive singular image-filters-enabled"><div><img src="40629705.gif" style="position:absolute; left:-9999px;" alt=""></div>
-	<meta charset="UTF-8">
-	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=1200">
-	<!--Favicon-->
-	<link href="favicon.ico" rel="icon" type="image/x-icon">
-	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
-	<title>Главная страница - Мирра-Фит - фитнес-студия в Вологде</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v11.0 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Женская фитнес-студия в Заречье и ПЗ. Наши тренеры уже 15 лет приводят клиентов к желаемому результату. Наш номер телефона: +7 (8172) 50-31-71. Ждем вас!">
-<link rel="canonical" href="https://mirrafit.site/">
-<meta property="og:locale" content="ru_RU">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Мирра-Фит - фитнес-студия в Вологде">
-<meta property="og:description" content="Женская фитнес-студия в Заречье и ПЗ. Наши тренеры уже 15 лет приводят клиентов к желаемому результату. Наш номер телефона: +7 (8172) 50-31-71. Ждем вас!">
-<meta property="og:url" content="https://mirrafit.site/">
-<meta property="og:site_name" content="Мирра-Фит - фитнес-студия в Вологде">
-<meta property="og:image" content="../order_form_new.jpg">
-<meta property="og:image:secure_url" content="../order_form_new.jpg">
-<meta property="og:image:width" content="617">
-<meta property="og:image:height" content="360">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Женская фитнес-студия в Заречье и ПЗ. Наши тренеры уже 15 лет приводят клиентов к желаемому результату. Наш номер телефона: +7 (8172) 50-31-71. Ждем вас!">
-<meta name="twitter:title" content="Главная страница - Мирра-Фит - фитнес-студия в Вологде">
-<meta name="twitter:image" content="../order_form_new.jpg">
+<body class="hidden-bar-wrapper">
 
-<!-- / Yoast SEO plugin. -->
+    <div class="page-wrapper">
 
-<link rel="dns-prefetch" href="https://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Мирра-Фит - фитнес-студия в Вологде » Лента" >
-<link rel="alternate" type="application/rss+xml" title="Мирра-Фит - фитнес-студия в Вологде » Лента комментариев" >
-<link rel="alternate" type="application/rss+xml" title="Мирра-Фит - фитнес-студия в Вологде » Лента комментариев к «Главная страница»" >
-		
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel="stylesheet" id="wp-block-library-css" href="style.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-theme-css" href="theme.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="twentynineteen-style-css" href="style.css" type="text/css" media="all">
-<link rel="stylesheet" id="twentynineteen-print-style-css" href="print.css" type="text/css" media="print">
-<link rel="https://api.w.org/" >
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 5.1.4">
-<link rel="shortlink" href="https://mirrafit.site/">
-<link rel="alternate" type="application/json+oembed" >
-<link rel="alternate" type="text/xml+oembed" >
-<link rel="pingback" href="../xmlrpc.php">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-			
-	<!-- CSS -->
-	<link rel="stylesheet" href="jquery.arcticmodal-0.3.css">
-	<link rel="stylesheet" href="dark.css">
-	<link rel="stylesheet" href="style-1.css">
+        <!-- Preloader -->
+        <div class="preloader" style="display: none;"></div>
 
-	<!-- Script -->
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+        <!-- Main Header-->
+        <header class="main-header header-style-two fixed-header">
+
+            <!-- Header Top -->
+            <div class="header-top">
+                <div class="auto-container">
+                    <div class="clearfix">
+
+                        <!-- Top Left -->
+                        <div class="top-left pull-left">
+                            <!-- Info List -->
+                            <ul class="info-list">
+                                <li><span class="icon fa fa-location-arrow"></span> Kolodvorska 12, Sarajevo</li>
+                                <li><span class="icon fa fa-phone"></span> <a href="tel:+387 61 182 170"> +387 61 182
+										170</a></li>
+                                <li><span class="icon fa fa-envelope-o"></span> <a href="mailto:info@bodyart.ba">
+										info@bodyart.ba</a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Header Upper -->
+            <div class="header-upper">
+                <div class="auto-container clearfix">
+
+                    <div class="pull-left logo-box">
+                        <div class="logo">
+                            <a href=""><img src="logo-body-art.jpg" alt="" title="" style="width: 230px; height:100px;"></a>
+                        </div>
+                    </div>
+
+                    <div class="nav-outer clearfix">
+                        <!--Mobile Navigation Toggler-->
+                        <div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>
+                        <!-- Main Menu -->
+                        <nav class="main-menu navbar-expand-md">
+                            <div class="navbar-header">
+                                <!-- Toggle Button -->
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            </div>
+
+                            <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                                <ul class="navigation clearfix">
+                                    <li><a href="">Početna</a>
+
+                                    </li>
+                                    <li><a href="http://www.bodyart.ba/o-nama.html">O nama</a>
+
+                                    </li>
+                                    <li class="dropdown"><a href="#">Naše usluge</a>
+                                        <ul>
+                                            <li><a href="">Raspored treninga</a></li>
+                                            <li><a href="">Personalni treneri</a></li>
+                                            <li><a href="">Grupni treninzi</a></li>
+                                        </ul>
+                                    <div class="dropdown-btn"><span class="fa fa-angle-down"></span></div></li>
+                                    <li><a href="">Galerija</a>
+                                    </li>
+                                    <li><a href="">Cjenovnik</a>
 
 
 
-	<!-- Google Tag Manager (noscript) --> <noscript></noscript> <!-- End Google Tag Manager (noscript) -->	<!-- VK Widget -->  <div id="vk_community_messages"></div> <div class="test"></div>
+                                    </li>
+                                    <li><a href="">Kontakt</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+
+                    </div>
+
+                </div>
+            </div>
+            <!--End Header Upper-->
+
+            <!-- Sticky Header  -->
+            <div class="sticky-header" style="position: fixed; width: 100%; top: 0px;">
+                <div class="auto-container clearfix">
+                    <!--Logo-->
+                    <div class="logo pull-left">
+                        <a href="" title=""><img src="logo-body-art.jpg" alt="" title="" style="width: 125px;height: 55px;"></a>
+                    </div>
+                    <!--Right Col-->
+                    <div class="pull-right">
+                        <!-- Main Menu -->
+                        <nav class="main-menu">
+                            <!--Keep This Empty / Menu will come through Javascript-->
+                        
+                            <div class="navbar-header">
+                                <!-- Toggle Button -->
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            </div>
+
+                            <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                                <ul class="navigation clearfix">
+                                    <li><a href="">Početna</a>
+
+                                    </li>
+                                    <li><a href="">O nama</a>
+
+                                    </li>
+                                    <li class="dropdown"><a href="#">Naše usluge</a>
+                                        <ul>
+                                            <li><a href="">Raspored treninga</a></li>
+                                            <li><a href="">Personalni treneri</a></li>
+                                            <li><a href="">Grupni treninzi</a></li>
+                                        </ul>
+                                    <div class="dropdown-btn"><span class="fa fa-angle-down"></span></div></li>
+                                    <li><a href="">Galerija</a>
+                                    </li>
+                                    <li><a href="">Cjenovnik</a>
 
 
-<header style="background-image: url(&quot;header_back_1.jpg&quot;)">
-	<section class="content">
-					<div class="mirra_girl"><img src="mirra_girl.png"></div>
-				<div class="logo_main_contacts clearfix">
-			<div class="logo"><img src="logo.png" alt="Логотип" title=""></div>
-			<div class="contacts">
-				<div class="phone">
-					<div class="phone_city">Вологда</div>
-					<div class="phone_number"><a href="tel:88172503171">+7 8172 <span class="heavy">50-31-71</span></a></div>
-				</div>
-				<div class="adress">
-					<ul>
-						<li><a href="#" class="to_contacts">Адрес в Заречье</a></li><li><a href="#" class="to_contacts">Адрес в ГПЗ, 1 мкр</a></li>					</ul>
-				</div>
-			</div>
-		</div>
-		<div class="slider_text">
-			<h1>Женская фитнес-студия<br>в Заречье и  ГПЗ 1-й мкр.</h1>
-			<h3>Наши инструкторы уже более 15 лет приводят клиентов<br>к желаемому результату</h3>
-			
-			<!--<div class="slider_cta"><strong style="font-size: 30px;">ХОТИТЕ НА ФИТНЕС?</strong><br>Но не знаете, что выбрать?</div>
-			<div class="slider_card_start">
-				<div class="slider_card_block slider_card_text">
-					<span class="heavy">Целую неделю</span> пробуйте все направления <span class="heavy">за 350 рублей</span>!
-				</div>
-				<div class="slider_card_block">
-				<div class="button order_link">Узнать подробнее</div>
-				</div>
-			</div>-->
-		</div>
-	</section>
-</header>
 
-<!-- DANCES -->
-<section class="dances" id="link_dances">
-	<div class="dances_grid content">
-		
-				<div class="one_dance" style="background: url(&quot;Fitness_aerobics_warm-up_459405_3840x2160.jpg&quot;) no-repeat center center; background-size: cover;">
-			<div class="title_wrapper">
-				<div class="title">
-					Подвижные классы					<ul class="list_dances">
-												<li><a class="dance_link" id="196">Фитнес-интенсив</a></li>
-												<li><a class="dance_link" id=""></a></li>
-												<li><a class="dance_link" id=""></a></li>
-												<li><a class="dance_link" id="232">Ягодицы + пресс</a></li>
-												<li><a class="dance_link" id="499">Женский стиль: Сальса, Бачата</a></li>
-											</ul>
-				</div>
-				
-				<div class="title_radial_gradient"></div>
-				<div class="title_gradient"></div>
-			</div>
-		</div>
-				<div class="one_dance" style="background: url(&quot;dance_13.jpg&quot;) no-repeat center center; background-size: cover;">
-			<div class="title_wrapper">
-				<div class="title">
-					Спокойные классы					<ul class="list_dances">
-												<li><a class="dance_link" id="222">Йога</a></li>
-												<li><a class="dance_link" id=""></a></li>
-												<li><a class="dance_link" id="397">Пилатес</a></li>
-												<li><a class="dance_link" id="236">Гибкое тело</a></li>
-												<li><a class="dance_link" id="470">Здоровая спина</a></li>
-											</ul>
-				</div>
-				
-				<div class="title_radial_gradient"></div>
-				<div class="title_gradient"></div>
-			</div>
-		</div>
-				<!--<div class="one_dance" style="background: url(images/dance_2.jpg) no-repeat center center; background-size: cover;">
-			<div class="title_wrapper">
-				<div class="title">
-					Танцевальный фитнес
-					<ul class="list_dances">
-						<li><a class="dance_link" id="dance_14" onclick="yaCounter40629705.reachGoal('strip'); return true;">Стрип-пластика</a></li>
-						
-						
-					</ul>
-				</div>
-				<div class="title_radial_gradient"></div>
-				<div class="title_gradient"></div>
-			</div>
-		</div>-->
-		<!--<div class="one_dance" style="background: url(images/dance_5.jpg) no-repeat center center; background-size: cover;">
-			<div class="title_wrapper">
-				<div class="title">
-					Детские направления
-					<ul class="list_dances">
-						<li><a class="dance_link" id="dance_10" onclick="yaCounter40629705.reachGoal('detfit'); return true;">Детский фитнес</a></li>
-						<li><a class="dance_link" id="dance_11" onclick="yaCounter40629705.reachGoal('detlat'); return true;">Детская соло латина</a></li>
-					</ul>
-				</div>
-				<div class="title_radial_gradient"></div>
-				<div class="title_gradient"></div>
-			</div>
-		</div>-->
-	</div>
-	<div class="back"></div>
-</section>
+                                    </li>
+                                    <li><a href="">Kontakt</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <!-- Main Menu End-->
 
-<!-- CARDS -->
-<section class="cards clearfix" id="link_cards">
-	<div class="content clearfix">
-		<div class="section_header clearfix">
-			<div class="section_header_left">
-				<h2>
-					Клубные <span class="heavy title_butterfly">карты</span>
-				</h2>
-									<div class="subtitle"><p>В стоимость включено всё необходимое для занятий:<br>инвентарь, раздевалки с индивидуальными шкафчиками, душевые</p>
-</div>
-								
-			</div>
-			<div class="right_links">
-									<a class="pdf open_rules" target="_blank" id="rules_1" href="https://drive.google.com/open?id=1oVb49klKQMKezXLuC5oktsDVrb0IzkSmj03hA_LVjd8">Правила покупки клубных карт</a> / <a class="open_rules" target="_blank" id="rules_2" href="https://drive.google.com/open?id=1HmIQGUWo9Tazc2pRslx5aXYgxhvA3fpQryMAWkaOPK0">Правила клуба</a>
-								
-			</div>
-		</div>
-	
-		<div class="gallery">
-			<div class="cards_block"></div>
-			<div class="list_photo">
-				<div class="arrows">
-					<div class="left_arrow"></div>
-					<div class="right_arrow"></div>
-				</div>
-									<div class="img" id="photo_1" style="background: url(&quot;7.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_2" style="background: url(&quot;6.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_3" style="background: url(&quot;5.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_4" style="background: url(&quot;4.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_5" style="background: url(&quot;3.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_6" style="background: url(&quot;2.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_7" style="background: url(&quot;1.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_8" style="background: url(&quot;ibi-lnhnp5Y.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_9" style="background: url(&quot;ubhWR3lITcs.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_10" style="background: url(&quot;8.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-									<div class="img" id="photo_11" style="background: url(&quot;9.jpg&quot;) no-repeat center center; background-size: cover;"></div>
-							</div>
-			<div class="purple_block"></div>
-		</div>
-		<div class="list_cards">
-			<ul>
-				<li class="list_header">Выберите карту для себя:</li>
-								<li><span>Первая тренировка в студии</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-													<div class="card_timer">1 день</div>
-												
-													<div class="card_group"><p>В любую группу, где есть свободные места</p>
-</div>
-												
-												
-													<div class="card_price">100 рублей</div>
-												
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								<li><span>На 4 тренировки</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-													<div class="card_timer">2 недели</div>
-												
-													<div class="card_group"><p>Действует только в <strong>одной</strong> группе</p>
-</div>
-												
-													<div class="card_price">
-								<table class="price_table" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr class="price_table_header">
-										<td>
-										Стоимость карты
-										</td>
-										<td>
-										Стоимость со скидкой
-										</td>
-									</tr>
-									<tr>
-										<td>
-										1100 рублей										</td>
-										<td>
-										✅ 1000 рублей										</td>
-									</tr>
-								</tbody></table>
-							</div>
-												
-												
-													<div class="card_description"><p><strong>Стоимость со скидкой</strong><br>
-						— При покупке первой клубной карты в день первого посещения или при покупке новой клубной карты не позднее даты окончания текущей карты<br>
-					— Приобретенная карта начинает действовать сразу же после предыдущей карты</p>
-</div>
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								<li><span>На 8 тренировок</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-													<div class="card_timer">4 недели</div>
-												
-													<div class="card_group"><p>Действует только в <strong>одной</strong> группе</p>
-</div>
-												
-													<div class="card_price">
-								<table class="price_table" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr class="price_table_header">
-										<td>
-										Стоимость карты
-										</td>
-										<td>
-										Стоимость со скидкой
-										</td>
-									</tr>
-									<tr>
-										<td>
-										1700 рублей										</td>
-										<td>
-										✅ 1500 рублей										</td>
-									</tr>
-								</tbody></table>
-							</div>
-												
-												
-													<div class="card_description"><p><strong>Стоимость со скидкой</strong><br>
-						— При покупке первой клубной карты в день первого посещения или при покупке новой клубной карты не позднее даты окончания текущей карты<br>
-					— Приобретенная карта начинает действовать сразу же после предыдущей карты</p>
-</div>
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								<li><span>На 12 тренировок</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-													<div class="card_timer">4 недели</div>
-												
-													<div class="card_group"><p>Действует только в <strong>двух</strong> группах (основная группа + группа выходного дня)</p>
-</div>
-												
-													<div class="card_price">
-								<table class="price_table" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr class="price_table_header">
-										<td>
-										Стоимость карты
-										</td>
-										<td>
-										Стоимость со скидкой
-										</td>
-									</tr>
-									<tr>
-										<td>
-										2400 рублей										</td>
-										<td>
-										✅ 2200 рублей										</td>
-									</tr>
-								</tbody></table>
-							</div>
-												
-												
-													<div class="card_description"><p><strong>Стоимость со скидкой</strong><br>
-						— При покупке первой клубной карты в день первого посещения или при покупке новой клубной карты не позднее даты окончания текущей карты<br>
-						— Приобретенная карта начинает действовать сразу же после предыдущей карты</p>
-</div>
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								<li><span>На 16 тренировок</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-													<div class="card_timer">4 недели</div>
-												
-													<div class="card_group"><p>Действует только в <strong>двух</strong> группах</p>
-</div>
-												
-													<div class="card_price">
-								<table class="price_table" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr class="price_table_header">
-										<td>
-										Стоимость карты
-										</td>
-										<td>
-										Стоимость со скидкой
-										</td>
-									</tr>
-									<tr>
-										<td>
-										3100 рублей										</td>
-										<td>
-										✅ 2900 рублей										</td>
-									</tr>
-								</tbody></table>
-							</div>
-												
-												
-													<div class="card_description"><p><strong>Стоимость со скидкой</strong><br>
-						— При покупке первой клубной карты в день первого посещения или при покупке новой клубной карты не позднее даты окончания текущей карты<br>
-					— Приобретенная карта начинает действовать сразу же после предыдущей карты</p>
-</div>
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								<li><span>Разовая тренировка</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-													<div class="card_timer">1 день</div>
-												
-													<div class="card_group"><p>В любую группу, где есть свободные места</p>
-</div>
-												
-												
-													<div class="card_price">300 рублей</div>
-												
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								<li><span>Составление плана питания</span><div class="cross">Закрыть</div>
-					<div class="card_info">
-					
-												
-												
-												
-													<div class="card_price">1000 рублей</div>
-												
-													<div class="card_description"><p>В программу входят:<br>
-✅ индивидуальный расчет калорийности и БЖУ (белки / жиры / углеводы) в зависимости от вашей цели (похудение / набор веса / поддержание веса), состояния здоровья, физиологических особенностей и вкусовых предпочтений)<br>
-✅меню<br>
-✅консультации, общение онлайн<br>
-✅отчетность (контроль за результатом)<br>
-✅корректировка программы при необходимости </p>
-</div>
-												<!--<div class="button order_link" data="абон. 8 зн.">Заказать клубную карту</div>-->
-					</div>
-				</li>
-								
-								<li class="list_footer">
-					<div class="list_footer_line">
-						<div class="text">
-							<strong>Студенткам и пенсионерам</strong>
-							<span><p>Скидка 100 рублей на абонементы<br>от 8 тренировок</p>
-</span>
-						</div>
-					</div>
-				</li>
-							</ul>
-		</div>
-	</div>
-</section>
-<!-- ORDER -->
-<section class="order" style="linear-gradient(rgba(61,44,3,.05) 0,transparent 10%,transparent 90%,rgba(61,44,3,.05) 100%),url(&quot;order_back.jpg&quot;) no-repeat">
-	<div class="content">
-		<div class="order_title"><p>Не знаете, что выбрать?<br>Хотите познакомиться с тренером?</p>
-</div>
-		<div class="order_subtitle"><p>Приходите на первое пробное занятие за 100 рублей<br> и подберите направление под ваши цели!</p>
-</div>
-		<div class="button order_link" data="без направления">Узнать наличие мест в группах</div>
-	</div>
-	
-</section>
+                    </div>
+                </div>
+            </div>
+            <!-- End Sticky Menu -->
 
-<!-- TRENERS -->
-<section class="treners" id="link_treners">
-	<div class="content clearfix">
-		<div class="section_header clearfix">
-			<h2>
-				<span class="heavy">Сертифицированные</span> <span class="title_butterfly">инструкторы</span>
-			</h2>
-			<div class="subtitle"><p>Команда профессиональных тренеров-единомышленников, увлеченных своей работой! </p>
-</div>
-		</div>
-		
-		<div class="treners_gallery">
-			<div class="treners_arrows">
-				<div class="left_arrow"></div>
-				<div class="right_arrow"></div>
-			</div>
-			<div class="treners_wrapper">
-									<div id="tren_207" class="one_trener left_trener">
-						<div class="trener_radial_gradient">
-							<div class="plus_icon">
-								<span>Подробнее</span>
-							</div>
-						</div>
-						<div class="mini_plus"></div>
-						<div class="trener_photo" style="background: url(&quot;tkachenko.jpg&quot;) no-repeat center center; background-size: cover;">
-							<div class="black_back"></div>
-						</div>
-						<div class="trener_name" style="display: none;">
-							Елена Ткаченко							<span>Фитнес-интенсив, Ягодицы+ пресс, Гибкое тело, Танцевальные стили</span>
-						</div>
-					</div>
-					
-									<div id="tren_215" class="one_trener active_trener">
-						<div class="trener_radial_gradient">
-							<div class="plus_icon">
-								<span>Подробнее</span>
-							</div>
-						</div>
-						<div class="mini_plus"></div>
-						<div class="trener_photo" style="background: url(&quot;5A-lGacSdos.jpg&quot;) no-repeat center center; background-size: cover;">
-							<div class="black_back"></div>
-						</div>
-						<div class="trener_name" style="display: none;">
-							Анна Елина							<span>Фитнес-интенсив, Пилатес, Йога,  Гибкое тело, Здоровая спина</span>
-						</div>
-					</div>
-					
-									<div id="tren_383" class="one_trener right_trener">
-						<div class="trener_radial_gradient">
-							<div class="plus_icon">
-								<span>Подробнее</span>
-							</div>
-						</div>
-						<div class="mini_plus"></div>
-						<div class="trener_photo" style="background: url(&quot;wmfSg3ImEJo.jpg&quot;) no-repeat center center; background-size: cover;">
-							<div class="black_back"></div>
-						</div>
-						<div class="trener_name" style="display: none;">
-							Татьяна Егорова							<span>Пилатес, Гибкое тело, Здоровая спина, Фитнес-интенсив</span>
-						</div>
-					</div>
-					
-							</div>
-		</div>
-	</div>
-</section>
+            <!-- Mobile Menu  -->
+            <div class="mobile-menu">
+                <div class="menu-backdrop"></div>
+                <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
 
-<section class="calendar" id="link_calendar">
-	<div class="content clearfix">
-		<div class="section_header clearfix">
-			<h2>
-				<span class="heavy">Расписание</span> <span class="title_butterfly">тренировок</span>
-			</h2>
-			<div class="subtitle">Подберите направление для достижения Вашей цели!</div>
-		</div>
-		<div class="table_wrapper">
-		<div class="zal_tab zal_1">
-			<div class="calendar_room_title">Некрасовский переулок, 15а (Заречье)</div>
-			<div class="header_levels">
-				<!-- Уровни по цветам -->
-				<div class="level">
-					<!--<div class="round level_blue" id="color_level_purple"><img src="images/checked.png" alt="" title=""></div> - детские-->
-				</div>
-				<div class="level">
-					<div class="round level_purple" id="color_level_blue"><img src="checked.png" alt="" title=""></div> - танцевальные
-				</div>
-				<div class="level">
-					<div class="round level_green" id="color_level_green"><img src="checked.png" alt="" title=""></div> - спокойные
-				</div>
-				<div class="level">
-					<div class="round level_yellow" id="color_level_yellow"><img src="checked.png" alt="" title=""></div> - аэробные
-				</div>
-				<div class="level">
-					<div class="round level_red" id="color_level_red"><img src="checked.png" alt="" title=""></div> - силовые
-				</div>
-			</div>
-									<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВТ 20:00, Женский стиль: Сальса, Бачата, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_blue" style="background: #3095f3"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-20-00-2</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">20:00</span>
-								<span class="lesson_title">Женский стиль: Сальса, Бачата</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПТ 20:00, Женский стиль: Сальса, Бачата, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_blue" style="background: #3095f3"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-20-00-5</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">20:00</span>
-								<span class="lesson_title">Женский стиль: Сальса, Бачата</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СР 17:30, Здоровая спина, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-17-30-3</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">17:30</span>
-								<span class="lesson_title">Здоровая спина</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВС 17:30, Здоровая спина, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-17-30-7</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">17:30</span>
-								<span class="lesson_title">Здоровая спина</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СБ 09:00, Здоровая спина, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-09-00-6</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">09:00</span>
-								<span class="lesson_title">Здоровая спина</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СР 18:30, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-18-30-3</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">18:30</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВС 18:30, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-18-30-7</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">18:30</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СБ 10:00, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-10-00-6</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">10:00</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПН 18:30, Пилатес, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-18-30-1</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">18:30</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ЧТ 18:30, Пилатес, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-18-30-4</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">18:30</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СР 19:30, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-19-30-3</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">19:30</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВС 19:30, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-19-30-7</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">19:30</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СБ 12:00, Гибкое тело, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-12-00-6</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">12:00</span>
-								<span class="lesson_title">Гибкое тело</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВТ 18:00, Ягодицы + пресс, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-18-00-2</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">18:00</span>
-								<span class="lesson_title">Ягодицы + пресс</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПТ 18:00, Ягодицы + пресс, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-18-00-5</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">18:00</span>
-								<span class="lesson_title">Ягодицы + пресс</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПН 17:30, Йога, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-17-30-1</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">17:30</span>
-								<span class="lesson_title">Йога</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ЧТ 17:30, Йога, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-17-30-4</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">17:30</span>
-								<span class="lesson_title">Йога</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПН 20:30, Фитнес-интенсив &amp; Гибкое тело, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-20-30-1</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">20:30</span>
-								<span class="lesson_title">Фитнес-интенсив &amp; Гибкое тело</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ЧТ 20:30, Фитнес-интенсив &amp; Гибкое тело, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-20-30-4</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">20:30</span>
-								<span class="lesson_title">Фитнес-интенсив &amp; Гибкое тело</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СР 20:30, Фитнес-интенсив &amp; Гибкое тело, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-20-30-3</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">20:30</span>
-								<span class="lesson_title">Фитнес-интенсив &amp; Гибкое тело</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВС 20:30, Фитнес-интенсив &amp; Гибкое тело, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-20-30-7</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">20:30</span>
-								<span class="lesson_title">Фитнес-интенсив &amp; Гибкое тело</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВТ 19:00, Фитнес-интенсив, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-19-00-2</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">19:00</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПТ 19:00, Фитнес-интенсив, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-19-00-5</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">19:00</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПН 19:30, Фитнес-интенсив, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-19-30-1</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">19:30</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ЧТ 19:30, Фитнес-интенсив, Анна Елина" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-19-30-4</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">19:30</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Анна Елина</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="СБ 11:00, Фитнес-интенсив, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">1-11-00-6</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">1</span>
-								<span class="lesson_hour">11:00</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-									<table id="table_1" class="lessons_table">					
-					
-						<thead>
-							<tr>
-								<td></td>
-								<td>пн</td>
-								<td>вт</td>
-								<td>ср</td>
-								<td>чт</td>
-								<td>пт</td>
-								<td>сб</td>
-								<td>вс</td>
-							</tr>
-						</thead>
-						<tbody>
-						
-																<tr class="ten_minutes" row_id="1-09-00">
-											<td>
-																										<span>09:00</span>
-																								
-											</td>
-																								<td id="1-09-00-1" class="light_border"></td>
-																									<td id="1-09-00-2" class="light_border"></td>
-																									<td id="1-09-00-3" class="light_border"></td>
-																									<td id="1-09-00-4" class="light_border"></td>
-																									<td id="1-09-00-5" class="light_border"></td>
-																									<td id="1-09-00-6" class="light_border"></td>
-																									<td id="1-09-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-09-10">
-											<td>
-																								
-											</td>
-																								<td id="1-09-10-1" class="light_border"></td>
-																									<td id="1-09-10-2" class="light_border"></td>
-																									<td id="1-09-10-3" class="light_border"></td>
-																									<td id="1-09-10-4" class="light_border"></td>
-																									<td id="1-09-10-5" class="light_border"></td>
-																									<td id="1-09-10-6" class="light_border"></td>
-																									<td id="1-09-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-09-20">
-											<td>
-																								
-											</td>
-																								<td id="1-09-20-1" class="light_border"></td>
-																									<td id="1-09-20-2" class="light_border"></td>
-																									<td id="1-09-20-3" class="light_border"></td>
-																									<td id="1-09-20-4" class="light_border"></td>
-																									<td id="1-09-20-5" class="light_border"></td>
-																									<td id="1-09-20-6" class="light_border"></td>
-																									<td id="1-09-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-09-30">
-											<td>
-																										<span class="mini_gray">09:30</span>
-																								
-											</td>
-																								<td id="1-09-30-1" class="light_border"></td>
-																									<td id="1-09-30-2" class="light_border"></td>
-																									<td id="1-09-30-3" class="light_border"></td>
-																									<td id="1-09-30-4" class="light_border"></td>
-																									<td id="1-09-30-5" class="light_border"></td>
-																									<td id="1-09-30-6" class="light_border"></td>
-																									<td id="1-09-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-09-40">
-											<td>
-																								
-											</td>
-																								<td id="1-09-40-1" class="light_border"></td>
-																									<td id="1-09-40-2" class="light_border"></td>
-																									<td id="1-09-40-3" class="light_border"></td>
-																									<td id="1-09-40-4" class="light_border"></td>
-																									<td id="1-09-40-5" class="light_border"></td>
-																									<td id="1-09-40-6" class="light_border"></td>
-																									<td id="1-09-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-09-50">
-											<td>
-																								
-											</td>
-																								<td id="1-09-50-1"></td>
-																									<td id="1-09-50-2"></td>
-																									<td id="1-09-50-3"></td>
-																									<td id="1-09-50-4"></td>
-																									<td id="1-09-50-5"></td>
-																									<td id="1-09-50-6"></td>
-																									<td id="1-09-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-10-00">
-											<td>
-																										<span>10:00</span>
-																								
-											</td>
-																								<td id="1-10-00-1" class="light_border"></td>
-																									<td id="1-10-00-2" class="light_border"></td>
-																									<td id="1-10-00-3" class="light_border"></td>
-																									<td id="1-10-00-4" class="light_border"></td>
-																									<td id="1-10-00-5" class="light_border"></td>
-																									<td id="1-10-00-6" class="light_border"></td>
-																									<td id="1-10-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-10-10">
-											<td>
-																								
-											</td>
-																								<td id="1-10-10-1" class="light_border"></td>
-																									<td id="1-10-10-2" class="light_border"></td>
-																									<td id="1-10-10-3" class="light_border"></td>
-																									<td id="1-10-10-4" class="light_border"></td>
-																									<td id="1-10-10-5" class="light_border"></td>
-																									<td id="1-10-10-6" class="light_border"></td>
-																									<td id="1-10-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-10-20">
-											<td>
-																								
-											</td>
-																								<td id="1-10-20-1" class="light_border"></td>
-																									<td id="1-10-20-2" class="light_border"></td>
-																									<td id="1-10-20-3" class="light_border"></td>
-																									<td id="1-10-20-4" class="light_border"></td>
-																									<td id="1-10-20-5" class="light_border"></td>
-																									<td id="1-10-20-6" class="light_border"></td>
-																									<td id="1-10-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-10-30">
-											<td>
-																										<span class="mini_gray">10:30</span>
-																								
-											</td>
-																								<td id="1-10-30-1" class="light_border"></td>
-																									<td id="1-10-30-2" class="light_border"></td>
-																									<td id="1-10-30-3" class="light_border"></td>
-																									<td id="1-10-30-4" class="light_border"></td>
-																									<td id="1-10-30-5" class="light_border"></td>
-																									<td id="1-10-30-6" class="light_border"></td>
-																									<td id="1-10-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-10-40">
-											<td>
-																								
-											</td>
-																								<td id="1-10-40-1" class="light_border"></td>
-																									<td id="1-10-40-2" class="light_border"></td>
-																									<td id="1-10-40-3" class="light_border"></td>
-																									<td id="1-10-40-4" class="light_border"></td>
-																									<td id="1-10-40-5" class="light_border"></td>
-																									<td id="1-10-40-6" class="light_border"></td>
-																									<td id="1-10-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-10-50">
-											<td>
-																								
-											</td>
-																								<td id="1-10-50-1"></td>
-																									<td id="1-10-50-2"></td>
-																									<td id="1-10-50-3"></td>
-																									<td id="1-10-50-4"></td>
-																									<td id="1-10-50-5"></td>
-																									<td id="1-10-50-6"></td>
-																									<td id="1-10-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-11-00">
-											<td>
-																										<span>11:00</span>
-																								
-											</td>
-																								<td id="1-11-00-1" class="light_border"></td>
-																									<td id="1-11-00-2" class="light_border"></td>
-																									<td id="1-11-00-3" class="light_border"></td>
-																									<td id="1-11-00-4" class="light_border"></td>
-																									<td id="1-11-00-5" class="light_border"></td>
-																									<td id="1-11-00-6" class="light_border"></td>
-																									<td id="1-11-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-11-10">
-											<td>
-																								
-											</td>
-																								<td id="1-11-10-1" class="light_border"></td>
-																									<td id="1-11-10-2" class="light_border"></td>
-																									<td id="1-11-10-3" class="light_border"></td>
-																									<td id="1-11-10-4" class="light_border"></td>
-																									<td id="1-11-10-5" class="light_border"></td>
-																									<td id="1-11-10-6" class="light_border"></td>
-																									<td id="1-11-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-11-20">
-											<td>
-																								
-											</td>
-																								<td id="1-11-20-1" class="light_border"></td>
-																									<td id="1-11-20-2" class="light_border"></td>
-																									<td id="1-11-20-3" class="light_border"></td>
-																									<td id="1-11-20-4" class="light_border"></td>
-																									<td id="1-11-20-5" class="light_border"></td>
-																									<td id="1-11-20-6" class="light_border"></td>
-																									<td id="1-11-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-11-30">
-											<td>
-																										<span class="mini_gray">11:30</span>
-																								
-											</td>
-																								<td id="1-11-30-1" class="light_border"></td>
-																									<td id="1-11-30-2" class="light_border"></td>
-																									<td id="1-11-30-3" class="light_border"></td>
-																									<td id="1-11-30-4" class="light_border"></td>
-																									<td id="1-11-30-5" class="light_border"></td>
-																									<td id="1-11-30-6" class="light_border"></td>
-																									<td id="1-11-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-11-40">
-											<td>
-																								
-											</td>
-																								<td id="1-11-40-1" class="light_border"></td>
-																									<td id="1-11-40-2" class="light_border"></td>
-																									<td id="1-11-40-3" class="light_border"></td>
-																									<td id="1-11-40-4" class="light_border"></td>
-																									<td id="1-11-40-5" class="light_border"></td>
-																									<td id="1-11-40-6" class="light_border"></td>
-																									<td id="1-11-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-11-50">
-											<td>
-																								
-											</td>
-																								<td id="1-11-50-1"></td>
-																									<td id="1-11-50-2"></td>
-																									<td id="1-11-50-3"></td>
-																									<td id="1-11-50-4"></td>
-																									<td id="1-11-50-5"></td>
-																									<td id="1-11-50-6"></td>
-																									<td id="1-11-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-12-00">
-											<td>
-																										<span>12:00</span>
-																								
-											</td>
-																								<td id="1-12-00-1" class="light_border"></td>
-																									<td id="1-12-00-2" class="light_border"></td>
-																									<td id="1-12-00-3" class="light_border"></td>
-																									<td id="1-12-00-4" class="light_border"></td>
-																									<td id="1-12-00-5" class="light_border"></td>
-																									<td id="1-12-00-6" class="light_border"></td>
-																									<td id="1-12-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-12-10">
-											<td>
-																								
-											</td>
-																								<td id="1-12-10-1" class="light_border"></td>
-																									<td id="1-12-10-2" class="light_border"></td>
-																									<td id="1-12-10-3" class="light_border"></td>
-																									<td id="1-12-10-4" class="light_border"></td>
-																									<td id="1-12-10-5" class="light_border"></td>
-																									<td id="1-12-10-6" class="light_border"></td>
-																									<td id="1-12-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-12-20">
-											<td>
-																								
-											</td>
-																								<td id="1-12-20-1" class="light_border"></td>
-																									<td id="1-12-20-2" class="light_border"></td>
-																									<td id="1-12-20-3" class="light_border"></td>
-																									<td id="1-12-20-4" class="light_border"></td>
-																									<td id="1-12-20-5" class="light_border"></td>
-																									<td id="1-12-20-6" class="light_border"></td>
-																									<td id="1-12-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-12-30">
-											<td>
-																										<span class="mini_gray">12:30</span>
-																								
-											</td>
-																								<td id="1-12-30-1" class="light_border"></td>
-																									<td id="1-12-30-2" class="light_border"></td>
-																									<td id="1-12-30-3" class="light_border"></td>
-																									<td id="1-12-30-4" class="light_border"></td>
-																									<td id="1-12-30-5" class="light_border"></td>
-																									<td id="1-12-30-6" class="light_border"></td>
-																									<td id="1-12-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-12-40">
-											<td>
-																								
-											</td>
-																								<td id="1-12-40-1" class="light_border"></td>
-																									<td id="1-12-40-2" class="light_border"></td>
-																									<td id="1-12-40-3" class="light_border"></td>
-																									<td id="1-12-40-4" class="light_border"></td>
-																									<td id="1-12-40-5" class="light_border"></td>
-																									<td id="1-12-40-6" class="light_border"></td>
-																									<td id="1-12-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-12-50">
-											<td>
-																								
-											</td>
-																								<td id="1-12-50-1"></td>
-																									<td id="1-12-50-2"></td>
-																									<td id="1-12-50-3"></td>
-																									<td id="1-12-50-4"></td>
-																									<td id="1-12-50-5"></td>
-																									<td id="1-12-50-6"></td>
-																									<td id="1-12-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-17-00">
-											<td>
-																										<span>17:00</span>
-																								
-											</td>
-																								<td id="1-17-00-1" class="light_border"></td>
-																									<td id="1-17-00-2" class="light_border"></td>
-																									<td id="1-17-00-3" class="light_border"></td>
-																									<td id="1-17-00-4" class="light_border"></td>
-																									<td id="1-17-00-5" class="light_border"></td>
-																									<td id="1-17-00-6" class="light_border"></td>
-																									<td id="1-17-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-17-10">
-											<td>
-																								
-											</td>
-																								<td id="1-17-10-1" class="light_border"></td>
-																									<td id="1-17-10-2" class="light_border"></td>
-																									<td id="1-17-10-3" class="light_border"></td>
-																									<td id="1-17-10-4" class="light_border"></td>
-																									<td id="1-17-10-5" class="light_border"></td>
-																									<td id="1-17-10-6" class="light_border"></td>
-																									<td id="1-17-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-17-20">
-											<td>
-																								
-											</td>
-																								<td id="1-17-20-1" class="light_border"></td>
-																									<td id="1-17-20-2" class="light_border"></td>
-																									<td id="1-17-20-3" class="light_border"></td>
-																									<td id="1-17-20-4" class="light_border"></td>
-																									<td id="1-17-20-5" class="light_border"></td>
-																									<td id="1-17-20-6" class="light_border"></td>
-																									<td id="1-17-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-17-30">
-											<td>
-																										<span class="mini_gray">17:30</span>
-																								
-											</td>
-																								<td id="1-17-30-1" class="light_border"></td>
-																									<td id="1-17-30-2" class="light_border"></td>
-																									<td id="1-17-30-3" class="light_border"></td>
-																									<td id="1-17-30-4" class="light_border"></td>
-																									<td id="1-17-30-5" class="light_border"></td>
-																									<td id="1-17-30-6" class="light_border"></td>
-																									<td id="1-17-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-17-40">
-											<td>
-																								
-											</td>
-																								<td id="1-17-40-1" class="light_border"></td>
-																									<td id="1-17-40-2" class="light_border"></td>
-																									<td id="1-17-40-3" class="light_border"></td>
-																									<td id="1-17-40-4" class="light_border"></td>
-																									<td id="1-17-40-5" class="light_border"></td>
-																									<td id="1-17-40-6" class="light_border"></td>
-																									<td id="1-17-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-17-50">
-											<td>
-																								
-											</td>
-																								<td id="1-17-50-1"></td>
-																									<td id="1-17-50-2"></td>
-																									<td id="1-17-50-3"></td>
-																									<td id="1-17-50-4"></td>
-																									<td id="1-17-50-5"></td>
-																									<td id="1-17-50-6"></td>
-																									<td id="1-17-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-18-00">
-											<td>
-																										<span>18:00</span>
-																								
-											</td>
-																								<td id="1-18-00-1" class="light_border"></td>
-																									<td id="1-18-00-2" class="light_border"></td>
-																									<td id="1-18-00-3" class="light_border"></td>
-																									<td id="1-18-00-4" class="light_border"></td>
-																									<td id="1-18-00-5" class="light_border"></td>
-																									<td id="1-18-00-6" class="light_border"></td>
-																									<td id="1-18-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-18-10">
-											<td>
-																								
-											</td>
-																								<td id="1-18-10-1" class="light_border"></td>
-																									<td id="1-18-10-2" class="light_border"></td>
-																									<td id="1-18-10-3" class="light_border"></td>
-																									<td id="1-18-10-4" class="light_border"></td>
-																									<td id="1-18-10-5" class="light_border"></td>
-																									<td id="1-18-10-6" class="light_border"></td>
-																									<td id="1-18-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-18-20">
-											<td>
-																								
-											</td>
-																								<td id="1-18-20-1" class="light_border"></td>
-																									<td id="1-18-20-2" class="light_border"></td>
-																									<td id="1-18-20-3" class="light_border"></td>
-																									<td id="1-18-20-4" class="light_border"></td>
-																									<td id="1-18-20-5" class="light_border"></td>
-																									<td id="1-18-20-6" class="light_border"></td>
-																									<td id="1-18-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-18-30">
-											<td>
-																										<span class="mini_gray">18:30</span>
-																								
-											</td>
-																								<td id="1-18-30-1" class="light_border"></td>
-																									<td id="1-18-30-2" class="light_border"></td>
-																									<td id="1-18-30-3" class="light_border"></td>
-																									<td id="1-18-30-4" class="light_border"></td>
-																									<td id="1-18-30-5" class="light_border"></td>
-																									<td id="1-18-30-6" class="light_border"></td>
-																									<td id="1-18-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-18-40">
-											<td>
-																								
-											</td>
-																								<td id="1-18-40-1" class="light_border"></td>
-																									<td id="1-18-40-2" class="light_border"></td>
-																									<td id="1-18-40-3" class="light_border"></td>
-																									<td id="1-18-40-4" class="light_border"></td>
-																									<td id="1-18-40-5" class="light_border"></td>
-																									<td id="1-18-40-6" class="light_border"></td>
-																									<td id="1-18-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-18-50">
-											<td>
-																								
-											</td>
-																								<td id="1-18-50-1"></td>
-																									<td id="1-18-50-2"></td>
-																									<td id="1-18-50-3"></td>
-																									<td id="1-18-50-4"></td>
-																									<td id="1-18-50-5"></td>
-																									<td id="1-18-50-6"></td>
-																									<td id="1-18-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-19-00">
-											<td>
-																										<span>19:00</span>
-																								
-											</td>
-																								<td id="1-19-00-1" class="light_border"></td>
-																									<td id="1-19-00-2" class="light_border"></td>
-																									<td id="1-19-00-3" class="light_border"></td>
-																									<td id="1-19-00-4" class="light_border"></td>
-																									<td id="1-19-00-5" class="light_border"></td>
-																									<td id="1-19-00-6" class="light_border"></td>
-																									<td id="1-19-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-19-10">
-											<td>
-																								
-											</td>
-																								<td id="1-19-10-1" class="light_border"></td>
-																									<td id="1-19-10-2" class="light_border"></td>
-																									<td id="1-19-10-3" class="light_border"></td>
-																									<td id="1-19-10-4" class="light_border"></td>
-																									<td id="1-19-10-5" class="light_border"></td>
-																									<td id="1-19-10-6" class="light_border"></td>
-																									<td id="1-19-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-19-20">
-											<td>
-																								
-											</td>
-																								<td id="1-19-20-1" class="light_border"></td>
-																									<td id="1-19-20-2" class="light_border"></td>
-																									<td id="1-19-20-3" class="light_border"></td>
-																									<td id="1-19-20-4" class="light_border"></td>
-																									<td id="1-19-20-5" class="light_border"></td>
-																									<td id="1-19-20-6" class="light_border"></td>
-																									<td id="1-19-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-19-30">
-											<td>
-																										<span class="mini_gray">19:30</span>
-																								
-											</td>
-																								<td id="1-19-30-1" class="light_border"></td>
-																									<td id="1-19-30-2" class="light_border"></td>
-																									<td id="1-19-30-3" class="light_border"></td>
-																									<td id="1-19-30-4" class="light_border"></td>
-																									<td id="1-19-30-5" class="light_border"></td>
-																									<td id="1-19-30-6" class="light_border"></td>
-																									<td id="1-19-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-19-40">
-											<td>
-																								
-											</td>
-																								<td id="1-19-40-1" class="light_border"></td>
-																									<td id="1-19-40-2" class="light_border"></td>
-																									<td id="1-19-40-3" class="light_border"></td>
-																									<td id="1-19-40-4" class="light_border"></td>
-																									<td id="1-19-40-5" class="light_border"></td>
-																									<td id="1-19-40-6" class="light_border"></td>
-																									<td id="1-19-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-19-50">
-											<td>
-																								
-											</td>
-																								<td id="1-19-50-1"></td>
-																									<td id="1-19-50-2"></td>
-																									<td id="1-19-50-3"></td>
-																									<td id="1-19-50-4"></td>
-																									<td id="1-19-50-5"></td>
-																									<td id="1-19-50-6"></td>
-																									<td id="1-19-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-20-00">
-											<td>
-																										<span>20:00</span>
-																								
-											</td>
-																								<td id="1-20-00-1" class="light_border"></td>
-																									<td id="1-20-00-2" class="light_border"></td>
-																									<td id="1-20-00-3" class="light_border"></td>
-																									<td id="1-20-00-4" class="light_border"></td>
-																									<td id="1-20-00-5" class="light_border"></td>
-																									<td id="1-20-00-6" class="light_border"></td>
-																									<td id="1-20-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-20-10">
-											<td>
-																								
-											</td>
-																								<td id="1-20-10-1" class="light_border"></td>
-																									<td id="1-20-10-2" class="light_border"></td>
-																									<td id="1-20-10-3" class="light_border"></td>
-																									<td id="1-20-10-4" class="light_border"></td>
-																									<td id="1-20-10-5" class="light_border"></td>
-																									<td id="1-20-10-6" class="light_border"></td>
-																									<td id="1-20-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-20-20">
-											<td>
-																								
-											</td>
-																								<td id="1-20-20-1" class="light_border"></td>
-																									<td id="1-20-20-2" class="light_border"></td>
-																									<td id="1-20-20-3" class="light_border"></td>
-																									<td id="1-20-20-4" class="light_border"></td>
-																									<td id="1-20-20-5" class="light_border"></td>
-																									<td id="1-20-20-6" class="light_border"></td>
-																									<td id="1-20-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-20-30">
-											<td>
-																										<span class="mini_gray">20:30</span>
-																								
-											</td>
-																								<td id="1-20-30-1" class="light_border"></td>
-																									<td id="1-20-30-2" class="light_border"></td>
-																									<td id="1-20-30-3" class="light_border"></td>
-																									<td id="1-20-30-4" class="light_border"></td>
-																									<td id="1-20-30-5" class="light_border"></td>
-																									<td id="1-20-30-6" class="light_border"></td>
-																									<td id="1-20-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-20-40">
-											<td>
-																								
-											</td>
-																								<td id="1-20-40-1" class="light_border"></td>
-																									<td id="1-20-40-2" class="light_border"></td>
-																									<td id="1-20-40-3" class="light_border"></td>
-																									<td id="1-20-40-4" class="light_border"></td>
-																									<td id="1-20-40-5" class="light_border"></td>
-																									<td id="1-20-40-6" class="light_border"></td>
-																									<td id="1-20-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-20-50">
-											<td>
-																								
-											</td>
-																								<td id="1-20-50-1"></td>
-																									<td id="1-20-50-2"></td>
-																									<td id="1-20-50-3"></td>
-																									<td id="1-20-50-4"></td>
-																									<td id="1-20-50-5"></td>
-																									<td id="1-20-50-6"></td>
-																									<td id="1-20-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-21-00">
-											<td>
-																										<span>21:00</span>
-																								
-											</td>
-																								<td id="1-21-00-1" class="light_border"></td>
-																									<td id="1-21-00-2" class="light_border"></td>
-																									<td id="1-21-00-3" class="light_border"></td>
-																									<td id="1-21-00-4" class="light_border"></td>
-																									<td id="1-21-00-5" class="light_border"></td>
-																									<td id="1-21-00-6" class="light_border"></td>
-																									<td id="1-21-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-21-10">
-											<td>
-																								
-											</td>
-																								<td id="1-21-10-1" class="light_border"></td>
-																									<td id="1-21-10-2" class="light_border"></td>
-																									<td id="1-21-10-3" class="light_border"></td>
-																									<td id="1-21-10-4" class="light_border"></td>
-																									<td id="1-21-10-5" class="light_border"></td>
-																									<td id="1-21-10-6" class="light_border"></td>
-																									<td id="1-21-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-21-20">
-											<td>
-																								
-											</td>
-																								<td id="1-21-20-1" class="light_border"></td>
-																									<td id="1-21-20-2" class="light_border"></td>
-																									<td id="1-21-20-3" class="light_border"></td>
-																									<td id="1-21-20-4" class="light_border"></td>
-																									<td id="1-21-20-5" class="light_border"></td>
-																									<td id="1-21-20-6" class="light_border"></td>
-																									<td id="1-21-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-21-30">
-											<td>
-																										<span class="mini_gray">21:30</span>
-																								
-											</td>
-																								<td id="1-21-30-1" class="light_border"></td>
-																									<td id="1-21-30-2" class="light_border"></td>
-																									<td id="1-21-30-3" class="light_border"></td>
-																									<td id="1-21-30-4" class="light_border"></td>
-																									<td id="1-21-30-5" class="light_border"></td>
-																									<td id="1-21-30-6" class="light_border"></td>
-																									<td id="1-21-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-21-40">
-											<td>
-																								
-											</td>
-																								<td id="1-21-40-1" class="light_border"></td>
-																									<td id="1-21-40-2" class="light_border"></td>
-																									<td id="1-21-40-3" class="light_border"></td>
-																									<td id="1-21-40-4" class="light_border"></td>
-																									<td id="1-21-40-5" class="light_border"></td>
-																									<td id="1-21-40-6" class="light_border"></td>
-																									<td id="1-21-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="1-21-50">
-											<td>
-																								
-											</td>
-																								<td id="1-21-50-1"></td>
-																									<td id="1-21-50-2"></td>
-																									<td id="1-21-50-3"></td>
-																									<td id="1-21-50-4"></td>
-																									<td id="1-21-50-5"></td>
-																									<td id="1-21-50-6"></td>
-																									<td id="1-21-50-7"></td>
-																						</tr>
-														
-						</tbody>
-					</table>
-		</div>
-				<div class="zal_tab zal_2">
-			<div class="calendar_room_title">1 микрорайон ГПЗ-23, 7А</div>
-			<div class="header_levels">
-				<!-- Уровни по цветам -->
-				<div class="level">
-					<!--<div class="round level_blue" id="color_level_purple"><img src="images/checked.png" alt="" title=""></div> - детские-->
-				</div>
-				<div class="level">
-					<div class="round level_purple" id="color_level_blue"><img src="checked.png" alt="" title=""></div> - танцевальные
-				</div>
-				<div class="level">
-					<div class="round level_green" id="color_level_green"><img src="checked.png" alt="" title=""></div> - спокойные
-				</div>
-				<div class="level">
-					<div class="round level_yellow" id="color_level_yellow"><img src="checked.png" alt="" title=""></div> - аэробные
-				</div>
-				<div class="level">
-					<div class="round level_red" id="color_level_red"><img src="checked.png" alt="" title=""></div> - силовые
-				</div>
-			</div>
-									<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ВТ 21:00, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">2-21-00-2</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">2</span>
-								<span class="lesson_hour">21:00</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПТ 21:00, Пилатес, Татьяна Егорова" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_green" style="background: #b2e633"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">2-21-00-5</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">2</span>
-								<span class="lesson_hour">21:00</span>
-								<span class="lesson_title">Пилатес</span>
-								<span class="lesson_teacher">Татьяна Егорова</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ПН 21:00, Фитнес-интенсив, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">2-21-00-1</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">2</span>
-								<span class="lesson_hour">21:00</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-												<div class="lesson_block lesson">
-							<div class="lesson_radial_gradient">
-								<div href="" data="ЧТ 21:00, Фитнес-интенсив, Елена Ткаченко" class="order_link">
-									<div>
-										<span>Записаться<br>на занятие</span>
-									</div>
-								</div>
-							</div>
-							<div class="les_levels">
-								<div class="one_level" id="level_yellow" style="background: #ffc426"></div><div class="one_level" id="level_red" style="background: #ed1159"></div>							</div>
-							<div class="lesson_wrapper">
-								<span class="hidden block_pos">2-21-00-4</span>
-								<span class="hidden block_duration_hour">1</span>
-								<span class="hidden block_duration_minute">0</span>
-								<span class="hidden block_room">2</span>
-								<span class="lesson_hour">21:00</span>
-								<span class="lesson_title">Фитнес-интенсив</span>
-								<span class="lesson_teacher">Елена Ткаченко</span>
-											
-							</div>
-						</div>
-									<table id="table_2" class="lessons_table">					
-					
-						<thead>
-							<tr>
-								<td></td>
-								<td>пн</td>
-								<td>вт</td>
-								<td>ср</td>
-								<td>чт</td>
-								<td>пт</td>
-								<td>сб</td>
-								<td>вс</td>
-							</tr>
-						</thead>
-						<tbody>
-						
-																<tr class="ten_minutes" row_id="2-21-00">
-											<td>
-																										<span>21:00</span>
-																								
-											</td>
-																								<td id="2-21-00-1" class="light_border"></td>
-																									<td id="2-21-00-2" class="light_border"></td>
-																									<td id="2-21-00-3" class="light_border"></td>
-																									<td id="2-21-00-4" class="light_border"></td>
-																									<td id="2-21-00-5" class="light_border"></td>
-																									<td id="2-21-00-6" class="light_border"></td>
-																									<td id="2-21-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-21-10">
-											<td>
-																								
-											</td>
-																								<td id="2-21-10-1" class="light_border"></td>
-																									<td id="2-21-10-2" class="light_border"></td>
-																									<td id="2-21-10-3" class="light_border"></td>
-																									<td id="2-21-10-4" class="light_border"></td>
-																									<td id="2-21-10-5" class="light_border"></td>
-																									<td id="2-21-10-6" class="light_border"></td>
-																									<td id="2-21-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-21-20">
-											<td>
-																								
-											</td>
-																								<td id="2-21-20-1" class="light_border"></td>
-																									<td id="2-21-20-2" class="light_border"></td>
-																									<td id="2-21-20-3" class="light_border"></td>
-																									<td id="2-21-20-4" class="light_border"></td>
-																									<td id="2-21-20-5" class="light_border"></td>
-																									<td id="2-21-20-6" class="light_border"></td>
-																									<td id="2-21-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-21-30">
-											<td>
-																										<span class="mini_gray">21:30</span>
-																								
-											</td>
-																								<td id="2-21-30-1" class="light_border"></td>
-																									<td id="2-21-30-2" class="light_border"></td>
-																									<td id="2-21-30-3" class="light_border"></td>
-																									<td id="2-21-30-4" class="light_border"></td>
-																									<td id="2-21-30-5" class="light_border"></td>
-																									<td id="2-21-30-6" class="light_border"></td>
-																									<td id="2-21-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-21-40">
-											<td>
-																								
-											</td>
-																								<td id="2-21-40-1" class="light_border"></td>
-																									<td id="2-21-40-2" class="light_border"></td>
-																									<td id="2-21-40-3" class="light_border"></td>
-																									<td id="2-21-40-4" class="light_border"></td>
-																									<td id="2-21-40-5" class="light_border"></td>
-																									<td id="2-21-40-6" class="light_border"></td>
-																									<td id="2-21-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-21-50">
-											<td>
-																								
-											</td>
-																								<td id="2-21-50-1"></td>
-																									<td id="2-21-50-2"></td>
-																									<td id="2-21-50-3"></td>
-																									<td id="2-21-50-4"></td>
-																									<td id="2-21-50-5"></td>
-																									<td id="2-21-50-6"></td>
-																									<td id="2-21-50-7"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-22-00">
-											<td>
-																										<span>22:00</span>
-																								
-											</td>
-																								<td id="2-22-00-1" class="light_border"></td>
-																									<td id="2-22-00-2" class="light_border"></td>
-																									<td id="2-22-00-3" class="light_border"></td>
-																									<td id="2-22-00-4" class="light_border"></td>
-																									<td id="2-22-00-5" class="light_border"></td>
-																									<td id="2-22-00-6" class="light_border"></td>
-																									<td id="2-22-00-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-22-10">
-											<td>
-																								
-											</td>
-																								<td id="2-22-10-1" class="light_border"></td>
-																									<td id="2-22-10-2" class="light_border"></td>
-																									<td id="2-22-10-3" class="light_border"></td>
-																									<td id="2-22-10-4" class="light_border"></td>
-																									<td id="2-22-10-5" class="light_border"></td>
-																									<td id="2-22-10-6" class="light_border"></td>
-																									<td id="2-22-10-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-22-20">
-											<td>
-																								
-											</td>
-																								<td id="2-22-20-1" class="light_border"></td>
-																									<td id="2-22-20-2" class="light_border"></td>
-																									<td id="2-22-20-3" class="light_border"></td>
-																									<td id="2-22-20-4" class="light_border"></td>
-																									<td id="2-22-20-5" class="light_border"></td>
-																									<td id="2-22-20-6" class="light_border"></td>
-																									<td id="2-22-20-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-22-30">
-											<td>
-																										<span class="mini_gray">22:30</span>
-																								
-											</td>
-																								<td id="2-22-30-1" class="light_border"></td>
-																									<td id="2-22-30-2" class="light_border"></td>
-																									<td id="2-22-30-3" class="light_border"></td>
-																									<td id="2-22-30-4" class="light_border"></td>
-																									<td id="2-22-30-5" class="light_border"></td>
-																									<td id="2-22-30-6" class="light_border"></td>
-																									<td id="2-22-30-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-22-40">
-											<td>
-																								
-											</td>
-																								<td id="2-22-40-1" class="light_border"></td>
-																									<td id="2-22-40-2" class="light_border"></td>
-																									<td id="2-22-40-3" class="light_border"></td>
-																									<td id="2-22-40-4" class="light_border"></td>
-																									<td id="2-22-40-5" class="light_border"></td>
-																									<td id="2-22-40-6" class="light_border"></td>
-																									<td id="2-22-40-7" class="light_border"></td>
-																						</tr>
-																			<tr class="ten_minutes" row_id="2-22-50">
-											<td>
-																								
-											</td>
-																								<td id="2-22-50-1"></td>
-																									<td id="2-22-50-2"></td>
-																									<td id="2-22-50-3"></td>
-																									<td id="2-22-50-4"></td>
-																									<td id="2-22-50-5"></td>
-																									<td id="2-22-50-6"></td>
-																									<td id="2-22-50-7"></td>
-																						</tr>
-														
-						</tbody>
-					</table>
-		</div>
-				</div>
-	</div>
-</section>
+                <nav class="menu-box mCustomScrollbar _mCS_1 mCS_no_scrollbar"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" tabindex="0" style="max-height: 724px;"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+                    <div class="nav-logo">
+                        <a href=""><img src="logo-body-art.jpg" alt="" title="" style="width: 175px;height: 80px;" class="mCS_img_loaded"></a>
+                    </div>
+                    <div class="menu-outer">
+                        <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+                    
+                            <div class="navbar-header">
+                                <!-- Toggle Button -->
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            </div>
+
+                            <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                                <ul class="navigation clearfix">
+                                    <li><a href="">Početna</a>
+
+                                    </li>
+                                    <li><a href="">O nama</a>
+
+                                    </li>
+                                    <li class="dropdown"><a href="#">Naše usluge</a>
+                                        <ul>
+                                            <li><a href="">Raspored treninga</a></li>
+                                            <li><a href="">Personalni treneri</a></li>
+                                            <li><a href="">Grupni treninzi</a></li>
+                                        </ul>
+                                    <div class="dropdown-btn"><span class="fa fa-angle-down"></span></div></li>
+                                    <li><a href="">Galerija</a>
+                                    </li>
+                                    <li><a href="">Cjenovnik</a>
 
 
-<footer class="clearfix" id="link_contacts">
-	<div class="footer_contacts">
-		<div class="section_header clearfix">
-			<h2>
-				Как нас <span class="heavy title_butterfly">найти</span>
-			</h2>
-			<div class="subtitle">Свяжитесь с нами любым<br>удобным способом! </div>
-		</div>
-		<div class="phone"><a href="tel:88172503171">+7 8172 <span class="heavy">50-31-71</span></a></div>
-		<div class="vk"><a href="http://vk.com/club_mirra_fit" target="_blank">vk.com/club_mirra_fit</a></div>
-		<div class="email"><a href="mailto:%20danza35@ya.ru">danza35@ya.ru</a></div>
-		<div class="footer_logo" style="background-image: url(&quot;footer_logo.jpg&quot;)"></div>
 
-	</div>
-	<div class="map_left">
-		<div class="map_adress">
-			Район Заречье<span>Некрасовский переулок, 15а</span>		</div>
-		<div class="gradient"></div>
-		<div id="map_1"></div>
-	</div>
-	<div class="map_right">
-		<div class="map_adress">
-			Район ГПЗ, 1 мкр.<span>1 микрорайон ГПЗ-23, 7А </span>		</div>
-		<div class="gradient"></div>
-		<div id="map_2"></div>
-	</div>
-</footer>
+                                    </li>
+                                    <li><a href="">Kontakt</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></nav>
+            </div>
+            <!-- End Mobile Menu -->
+
+        </header>
+        <!-- End Main Header -->
+        <!--Main Slider-->
+        <section class="main-slider-two">
+
+            <div class="main-slider-carousel owl-carousel owl-theme owl-rtl owl-loaded owl-drag">
+
+                
+
+                
+
+
+
+            <div class="owl-stage-outer owl-height" style="height: 989px;"><div class="owl-stage" style="transform: translate3d(3852px, 0px, 0px); transition: all 0s ease 0s; width: 7704px;"><div class="owl-item cloned" style="width: 1284px;"><div class="slide" style="background-image:url(&quot;naslovnica1.jpg&quot;)">
+                    <div class="pattern-layer" style="background-image:url(&quot;naslovnica-png.png&quot;)"></div>
+                    <div class="pattern-dots" style="background-image:url(&quot;dots.png&quot;)"></div>
+                    <div class="auto-container">
+
+                        <!-- Content boxed -->
+                        <div class="content-boxed">
+                            <h4 style="color:white;">Svi naši članovi uživaju pravo na <br> 2:30 sata besplatnog parkinga</h4>
+                            <h1 class="glow">  18 <br> godina <br>  sa Vama <br></h1>
+                            <div class="link-box clearfix">
+                                <div class="btn-one-outer"><a href="" class="theme-btn btn-style-one "><span class="txt ">Kontaktirajte nas</span></a></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 1284px;"><div class="slide " style="background-image:url(&quot;naslovnica2.jpg&quot;) ">
+                    <div class="pattern-layer " style="background-image:url(&quot;naslovnica-png.png&quot;) "></div>
+                    <div class="pattern-dots " style="background-image:url(&quot;dots.png&quot;) "></div>
+                    <div class="auto-container ">
+                        <!-- Content boxed -->
+                        <div class="content-boxed ">
+                             <h4 style="color:white;">Svi naši članovi uživaju pravo na <br> 2:30 sata besplatnog parkinga</h4>
+                            <h1>Gdje <br> zdrav život <br>stanuje</h1>
+                            <div class="link-box clearfix ">
+                                <div class="btn-one-outer "><a href="" class="theme-btn btn-style-one"><span class="txt ">Kontaktirajte nas</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item" style="width: 1284px;"><div class="slide" style="background-image:url(&quot;naslovnica1.jpg&quot;)">
+                    <div class="pattern-layer" style="background-image:url(&quot;naslovnica-png.png&quot;)"></div>
+                    <div class="pattern-dots" style="background-image:url(&quot;dots.png&quot;)"></div>
+                    <div class="auto-container">
+
+                        <!-- Content boxed -->
+                        <div class="content-boxed">
+                            <h4 style="color:white;">Svi naši članovi uživaju pravo na <br> 2:30 sata besplatnog parkinga</h4>
+                            <h1 class="glow">  18 <br> godina <br>  sa Vama <br></h1>
+                            <div class="link-box clearfix">
+                                <div class="btn-one-outer"><a href="" class="theme-btn btn-style-one "><span class="txt ">Kontaktirajte nas</span></a></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div></div><div class="owl-item active" style="width: 1284px;"><div class="slide " style="background-image:url(&quot;naslovnica2.jpg&quot;) ">
+                    <div class="pattern-layer " style="background-image:url(&quot;naslovnica-png.png&quot;) "></div>
+                    <div class="pattern-dots " style="background-image:url(&quot;dots.png&quot;) "></div>
+                    <div class="auto-container ">
+                        <!-- Content boxed -->
+                        <div class="content-boxed ">
+                             <h4 style="color:white;">Svi naši članovi uživaju pravo na <br> 2:30 sata besplatnog parkinga</h4>
+                            <h1>Gdje <br> zdrav život <br>stanuje</h1>
+                            <div class="link-box clearfix ">
+                                <div class="btn-one-outer "><a href="" class="theme-btn btn-style-one"><span class="txt ">Kontaktirajte nas</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 1284px;"><div class="slide" style="background-image:url(&quot;naslovnica1.jpg&quot;)">
+                    <div class="pattern-layer" style="background-image:url(&quot;naslovnica-png.png&quot;)"></div>
+                    <div class="pattern-dots" style="background-image:url(&quot;dots.png&quot;)"></div>
+                    <div class="auto-container">
+
+                        <!-- Content boxed -->
+                        <div class="content-boxed">
+                            <h4 style="color:white;">Svi naši članovi uživaju pravo na <br> 2:30 sata besplatnog parkinga</h4>
+                            <h1 class="glow">  18 <br> godina <br>  sa Vama <br></h1>
+                            <div class="link-box clearfix">
+                                <div class="btn-one-outer"><a href="" class="theme-btn btn-style-one "><span class="txt ">Kontaktirajte nas</span></a></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 1284px;"><div class="slide " style="background-image:url(&quot;naslovnica2.jpg&quot;) ">
+                    <div class="pattern-layer " style="background-image:url(&quot;naslovnica-png.png&quot;) "></div>
+                    <div class="pattern-dots " style="background-image:url(&quot;dots.png&quot;) "></div>
+                    <div class="auto-container ">
+                        <!-- Content boxed -->
+                        <div class="content-boxed ">
+                             <h4 style="color:white;">Svi naši članovi uživaju pravo na <br> 2:30 sata besplatnog parkinga</h4>
+                            <h1>Gdje <br> zdrav život <br>stanuje</h1>
+                            <div class="link-box clearfix ">
+                                <div class="btn-one-outer "><a href="" class="theme-btn btn-style-one"><span class="txt ">Kontaktirajte nas</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div></div></div><div class="owl-nav"><div class="owl-prev"><span class="flaticon-back-1"></span></div><div class="owl-next"><span class="flaticon-arrow-pointing-to-right"></span></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div>
+
+            <!-- Social Box -->
+            <div class="social-box ">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/Fitness-centar-Body-Art-277604478922506/" target="_blank " class="fa fa-facebook-f "></a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/bodyart.ba/?hl=hr" target="_blank " class="fa fa-instagram "></a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UC-CKG8ONPMRXnzsECPl74Og" target="_blank " class="fa fa-youtube "></a>
+                    </li>
+                </ul>
+            </div>
+
+        </section>
+        <!--End Main Slider-->
+
+
+
+        <!-- Choose Section -->
+        <section class="choose-section ">
+            <div class="auto-container ">
+                <div class="row clearfix ">
+
+                    <!-- Images Column -->
+                    <div class="images-column col-lg-6 col-md-12 col-sm-12 ">
+                        <div class="inner-column ">
+                            <div class="info-box ">
+                                <h3><a href="">Grupni <br> Trening</a></h3>
+
+                                <div class="icon flaticon-stationary-bike "></div>
+                            </div>
+
+                            <div class="info-box style-two ">
+                                <h3><a href="">Lični <br> Trener</a></h3>
+
+                                <div class="icon flaticon-people "></div>
+                            </div>
+
+                            <div class="image ">
+                                <img src="body-art-1.jpg" alt=" ">
+                            </div>
+                            <div class="image-1 ">
+                                <img src="body-art-2.jpg" alt=" ">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Content Column -->
+                    <div class="content-column col-lg-6 col-md-12 col-sm-12 ">
+                        <div class="inner-column ">
+                            <!-- Sec Title -->
+                            <div class="sec-title ">
+                                <div class="title ">Dobrodošli</div>
+                                <h2>Mi podižemo <br> Samopouzdanje</h2>
+                            </div>
+
+                            <!-- Featured Block -->
+                            <div class="featured-block ">
+                                <div class="block-inner ">
+                                    <span class="icon flaticon-people "></span>
+                                    <strong>Trening program</strong>
+                                    <div class="feature-text ">Izrada individualnog program treninga prema Vašim potrebama za svakog posjetioca je besplatna.</div>
+                                </div>
+                            </div>
+
+                            <!-- Featured Block -->
+                            <div class="featured-block ">
+                                <div class="block-inner ">
+                                    <span class="icon flaticon-stationary-bike "></span>
+                                    <strong>Savremene sprave</strong>
+                                    <div class="feature-text ">Fitness centar je opremljen dovoljnim brojem fitness sprava svjetski renomiranog brenda Technogym.</div>
+                                </div>
+                            </div>
+
+                            <!-- Featured Block -->
+                            <div class="featured-block ">
+                                <div class="block-inner ">
+                                    <span class="icon flaticon-premium "></span>
+                                    <strong>Zadovoljni klijenti</strong>
+                                    <div class="feature-text ">Čast nam je i profesionalni izazov da ugostimo svakoga ko želi da podigne nivo tjelesnih sposobnosti.</div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- End Choose Section -->
+
+        <!-- Featured Section -->
+        <section class="featured-section ">
+            <div class="auto-container ">
+                <!-- Sec Title -->
+                <div class="sec-title light centered ">
+                    <div class="title ">NAŠE USLUGE</div>
+                    
+                </div>
+                <div class="row clearfix ">
+
+                    <!-- Featured Block Two -->
+                    <div class="featured-block-two col-lg-4 col-md-6 col-sm-12 ">
+                        <div class="inner-box wow fadeInLeft  animated" data-wow-delay="0ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                            <div class="image ">
+                                <a href=""><img src="grupni-treninzi-hp.jpg" alt=" "></a>
+                                <div class="icon-box ">
+                                    <span class="icon flaticon-tools-and-utensils-1 "></span>
+                                </div>
+                            </div>
+                            <div class="lower-content ">
+                                <div class="title "></div>
+                                <h4><a href="">Grupni treninzi</a></h4>
+                                <div class="text ">Body Art vam nudi najraznovrsniju selekciju grupnih treninga za sve nivoe učesnika.</div>
+                                <a class="read-more " href="">Saznaj više</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Featured Block Two -->
+                    <div class="featured-block-two col-lg-4 col-md-6 col-sm-12 ">
+                        <div class="inner-box wow fadeInUp  animated" data-wow-delay="0ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                            <div class="image ">
+                                <a href=""><img src="personalni-treninzi-hp.jpg" alt=" "></a>
+                                <div class="icon-box ">
+                                    <span class="icon flaticon-muscle "></span>
+                                </div>
+                            </div>
+                            <div class="lower-content ">
+                                <div class="title "></div>
+                                <h4><a href="">Personalni treninzi</a></h4>
+                                <div class="text ">Ostvarite ciljeve uz personaliziran trening prilagođen i kreiran samo za Vas!</div>
+                                <a class="read-more " href="">Saznaj više</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Featured Block Two -->
+                    <div class="featured-block-two col-lg-4 col-md-6 col-sm-12 ">
+                        <div class="inner-box wow fadeInRight  animated" data-wow-delay="0ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                            <div class="image ">
+                                <a href=""><img src="savjeti-hp.jpg" alt=" "></a>
+                                <div class="icon-box ">
+                                    <span class="icon flaticon-people "></span>
+                                </div>
+                            </div>
+                            <div class="lower-content ">
+                                <div class="title "></div>
+                                <h4><a href="">Raspored treninga</a></h4>
+                                <div class="text ">Kultura tijela je temelj na kome se uzdižu sve čovjekove sposobnosti i funkcije. </div>
+                                <a class="read-more " href="">Saznaj više</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- End Featured Section -->
+
+        <!-- Counter Section -->
+        <section class="counter-section margin-top ">
+            <div class="auto-container ">
+                <div class="inner-container ">
+                    <div class="pattern-layer " style="background-image:url(&quot;1550x575.png&quot;) "></div>
+                    <!-- Fact Counter -->
+                    <div class="fact-counter ">
+                        <div class="row clearfix ">
+
+                            <!-- Column -->
+                            <div class="column counter-column col-lg-3 col-md-6 col-sm-12 ">
+                                <div class="inner wow fadeInLeft  animated" data-wow-delay="0ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                                    <div class="content ">
+                                        <div class="icon flaticon-muscle "></div>
+                                        <div class="count-outer count-box  counted">
+                                            <span class="count-text " data-speed="3500 " data-stop="10 ">10</span>
+                                        </div>
+                                        <div class="counter-title ">Iskusnih trenera</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Column-->
+                            <div class="column counter-column col-lg-3 col-md-6 col-sm-12 ">
+                                <div class="inner wow fadeInLeft  animated" data-wow-delay="300ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                                    <div class="content ">
+                                        <div class="icon flaticon-fitness "></div>
+                                        <div class="count-outer count-box alternate  counted">
+                                            <span class="count-text " data-speed="2500 " data-stop="550 ">550</span>
+                                        </div>
+                                        <div class="counter-title ">Zadovoljnih klijenata</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Column-->
+                            <div class="column counter-column col-lg-3 col-md-6 col-sm-12 ">
+                                <div class="inner wow fadeInLeft  animated" data-wow-delay="600ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 600ms; animation-name: fadeInLeft;">
+                                    <div class="content ">
+                                        <div class="icon flaticon-building "></div>
+                                        <div class="count-outer count-box  counted">
+                                            <span class="count-text " data-speed="800 " data-stop="1 ">1</span>
+                                        </div>
+                                        <div class="counter-title ">Teretana</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Column-->
+                            <div class="column counter-column col-lg-3 col-md-6 col-sm-12 ">
+                                <div class="inner wow fadeInLeft  animated" data-wow-delay="600ms " data-wow-duration="1500ms " style="visibility: visible; animation-duration: 1500ms; animation-delay: 600ms; animation-name: fadeInLeft;">
+                                    <div class="content ">
+                                        <div class="icon flaticon-fitness-1 "></div>
+                                        <div class="count-outer count-box  counted">
+                                            <span class="count-text " data-speed="2000 " data-stop="1000 ">1000</span>
+                                        </div>
+                                        <div class="counter-title ">Iskustava</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+        <!-- End Counter Section -->
+
+        <!-- Timetable -->
+        
+        
+        <div class="container " style="margin-top: 50px; margin-bottom: 50px; text-align: center;">
+            <div class="inner-container ">
+                 <a href="./raspored_septembar.jpg" data-lightbox="photos"><img class="img-fluid" src="raspored_septembar.jpg"></a>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Testimonial Section -->
+    <section class="testimonial-section ">
+        <div class="auto-container ">
+            <div class="inner-container " style="background-image:url(&quot;Poznati-o-nama.jpg&quot;) ">
+                <div class="row clearfix ">
+
+                    <!-- Title Column -->
+                    <div class="title-column col-lg-4 col-md-12 col-sm-12 ">
+                        <div class="inner-column ">
+                            <!-- Sec Title -->
+                            <div class="sec-title light ">
+                                <div class="title ">POZNATI O NAMA</div>
+                                <h2>ŠTA O NAMA <br> KAŽU NAŠI KLIJENTI</h2>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Testimonial Column -->
+                    <div class="testimonial-column col-lg-8 col-md-12 col-sm-12 ">
+                        <div class="inner-column ">
+                            <div class="single-item-carousel owl-carousel owl-theme  owl-rtl owl-loaded owl-drag">
+
+                                <!-- Testimonial Block Two -->
+                                
+
+                                <!-- Testimonial Block Two -->
+                                
+
+                                <!-- Testimonial Block Two -->
+                                
+
+                                
+
+                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(3315px, 0px, 0px); transition: all 0.5s ease 0s; width: 5304px;"><div class="owl-item cloned" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="larisa.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Džudistkinja</div>
+                                            <h4>Larisa Cerić</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Zašto treniram u Body Artu? Zato što je to najbolji fitness u gradu, ima mnogo sprava i prostora za trening, veoma ljubazno osoblje, higijena uvijek na nivou, savršena lokacija, uvijek slobodno mjesto za parking
+                                            što je veoma teško naći u ovom gradu. JEDNOSTAVNO NAJBOLJI
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item cloned" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="neno%20muric.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Muzičar</div>
+                                            <h4>Neno Murić</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Često sam počinjao trenirati, ali sam brzo odustajao. Shvatio sam da mi je u fitness centrima nedostasjao komfor i prijatan ambijent koji motivira. Body Art je moja preporuka jer pored komfora, opremljenosti i prijatnog
+                                            ambijenta posjeduje ljubazno osoblje koje je uvijek spremno izaći u susret</div>
+                                    </div>
+                                </div></div><div class="owl-item" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="amra.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Manekenka</div>
+                                            <h4>Amra Silajdžić Džeko</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Zaista je pravo uživanje doći u prostore Body Arta, gdje vas na vratima dočekaju ljubazni, stručni i topli ljudi. Profesionalnost je na najvišem nivou, izbor programa i više nego zadovoljavajući, pa nikada nisam poželjela trenirati na nekom drugom mjestu</div>
+                                    </div>
+                                </div></div><div class="owl-item" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="mirza.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Teniser</div>
+                                            <h4>Mirza Bašić</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Fitness centar u kojem treniram već 10 godina i to dovoljno govori o svemu. Najbolja oprema, koncept, prostrani prostor, savršeno osvijetljen, a osoblje baš kao i klijentela za čistu desetku
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="larisa.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Džudistkinja</div>
+                                            <h4>Larisa Cerić</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Zašto treniram u Body Artu? Zato što je to najbolji fitness u gradu, ima mnogo sprava i prostora za trening, veoma ljubazno osoblje, higijena uvijek na nivou, savršena lokacija, uvijek slobodno mjesto za parking
+                                            što je veoma teško naći u ovom gradu. JEDNOSTAVNO NAJBOLJI
+                                        </div>
+                                    </div>
+                                </div></div><div class="owl-item active" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="neno%20muric.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Muzičar</div>
+                                            <h4>Neno Murić</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Često sam počinjao trenirati, ali sam brzo odustajao. Shvatio sam da mi je u fitness centrima nedostasjao komfor i prijatan ambijent koji motivira. Body Art je moja preporuka jer pored komfora, opremljenosti i prijatnog
+                                            ambijenta posjeduje ljubazno osoblje koje je uvijek spremno izaći u susret</div>
+                                    </div>
+                                </div></div><div class="owl-item cloned" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="amra.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Manekenka</div>
+                                            <h4>Amra Silajdžić Džeko</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Zaista je pravo uživanje doći u prostore Body Arta, gdje vas na vratima dočekaju ljubazni, stručni i topli ljudi. Profesionalnost je na najvišem nivou, izbor programa i više nego zadovoljavajući, pa nikada nisam poželjela trenirati na nekom drugom mjestu</div>
+                                    </div>
+                                </div></div><div class="owl-item cloned" style="width: 663px;"><div class="testimonial-block-two ">
+                                    <div class="inner-box ">
+                                        <div class="upper-box ">
+                                            <div class="author-image ">
+                                                <img src="mirza.jpg" alt=" ">
+                                            </div>
+                                            <div class="title ">Teniser</div>
+                                            <h4>Mirza Bašić</h4>
+                                            <div class="rating ">
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                                <span class="fa fa-star "></span>
+                                            </div>
+                                        </div>
+                                        <div class="quote-icon flaticon-right-quote "></div>
+                                        <div class="text ">Fitness centar u kojem treniram već 10 godina i to dovoljno govori o svemu. Najbolja oprema, koncept, prostrani prostor, savršeno osvijetljen, a osoblje baš kao i klijentela za čistu desetku
+                                        </div>
+                                    </div>
+                                </div></div></div></div><div class="owl-nav"><div class="owl-prev"><span class="fa fa-angle-left"></span></div><div class="owl-next"><span class="fa fa-angle-right"></span></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Testimonial Section -->
+
+    <!-- Pricing Section -->
+    <section class="pricing-section ">
+        <div class="image-layer " style="background-image:url(&quot;Clanarine.jpg&quot;) "></div>
+        <div class="auto-container ">
+            <!-- Sec Title -->
+            <div class="sec-title light centered ">
+                <div class="title ">Cjenovnik</div>
+                <h2>Članarine <br></h2>
+            </div>
+            <div class="row clearfix ">
+                <!-- Pricing Block -->
+                <div class="pricing-block col-lg-4 col-md-6 col-sm-12 ">
+                    <div class="inner-box " style="background-image:url(&quot;Clanarine-1.jpg&quot;) ">
+                        <h4 style="text-align: center; ">Mjesečna članarina</h4>
+                        <div class="price " style="text-align: center; "><span>50 KM</span></div>
+                        <ul class="price-list ">
+                            <li>Korištenje svih sadržaja u terminu 08:00 - 15:00</li>
+                            <li>Besplatan parking</li>
+                        </ul>
+                        <div class="btn-one-outer "><a href="./cjenovnik.html" target="_blank " class="theme-btn btn-style-one " type="submit "><span class="txt ">Pogledaj
+										Više</span></a></div>
+                    </div>
+                </div>
+
+                <div class="pricing-block col-lg-4 col-md-6 col-sm-12 ">
+                    <div class="inner-box " style="background-image:url(&quot;Clanarine-2.jpg&quot;) ">
+                        <h4 style="text-align: center; ">Za studente</h4>
+                        <div class="price " style="text-align: center; "><span>40 KM</span></div>
+                        <ul class="price-list ">
+                            <li>Korištenje svih sadržaja u terminu 08:00 - 15:00</li>
+                            <li>Besplatan parking</li>
+                        </ul>
+                        <div class="btn-one-outer "><a href="./cjenovnik.html" target="_blank " class="theme-btn btn-style-one " type="submit "><span class="txt ">Pogledaj
+										Više</span></a></div>
+                    </div>
+                </div>
+
+                <div class="pricing-block col-lg-4 col-md-6 col-sm-12 ">
+                    <div class="inner-box " style="background-image:url(&quot;Clanarine-3.jpg&quot;) ">
+                        <h4 style="text-align: center; ">Dnevna karta</h4>
+                        <div class="price " style="text-align: center; "><span>10 KM</span></div>
+                        <ul class="price-list ">
+                            <li>Korištenje svih sadržaja u terminu 08:00 - 22:00</li>
+                            <li>Besplatan parking</li>
+                        </ul>
+                        <div class="btn-one-outer "><a href="./cjenovnik.html" target="_blank " class="theme-btn btn-style-one " type="submit "><span class="txt ">Pogledaj
+										Više</span></a></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+    <!-- End Pricing Section -->
+
+    <!-- Main Footer -->
+    <footer class="main-footer " style="background-image:url(&quot;Footer-dark.jpg&quot;) ">
+        <div class="auto-container ">
+            <!-- Widgets Section -->
+            <div class="widgets-section ">
+                <div class="row clearfix ">
+
+                    <!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12 ">
+
+                        <div class="row clearfix ">
+
+                            <!--Footer Column-->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12 ">
+                                <div class="footer-widget timing-widget ">
+                                    <h4>Adresa</h4>
+                                    <ul>
+                                        <li><span>Kolodvorska 12, Sarajevo</span></li>
+                                        <li></li>
+                                        <li style="color: #fff; "> <span></span></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12 ">
+                                <div class="footer-widget timing-widget ">
+                                    <h4>Telefon</h4>
+                                    <ul>
+                                        <li><span>+387 61 182 170</span></li>
+                                        <li> <span></span></li>
+                                        <li style="color: #fff; "><span></span></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12 ">
+                        <div class="row clearfix ">
+
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12 ">
+                                <div class="footer-widget timing-widget ">
+                                    <h4>Email</h4>
+                                    <ul>
+                                        <li><span>info@bodyart.ba</span></li>
+                                        <li> <span></span></li>
+                                        <li style="color: #fff; "> <span></span></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12 ">
+                                <div class="footer-widget timing-widget ">
+                                    <h4>Radno vrijeme</h4>
+                                    <ul>
+                                        <li>Pon-Pet: 06:30 - 22:00</li>
+                                        <li>Sub: 09:00 - 21:00
+                                        </li>
+                                        <li>Ned: 10:00 - 20:00
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Footer Bottom -->
+            <div class="footer-bottom ">
+                <div class="copyright ">Copyright 2020 Made by <a href="https://leadsfactory.ba/" target="_blank " style="color: white !important"> Leads Factory</a> </div>
+            </div>
+
+        </div>
+    </footer>
+
+
+
+    <!-- Color Palate / Color Switcher -->
+    <div class="color-palate ">
+        <div class="color-trigger ">
+            <i class="fa fa-gear "></i>
+        </div>
+        <div class="color-palate-head ">
+            <h6>Choose Your Color</h6>
+        </div>
+        <div class="various-color clearfix ">
+            <div class="colors-list ">
+                <span class="palate default-color active " data-theme-file="css/color-themes/default-theme.css "></span>
+                <span class="palate green-color " data-theme-file="css/color-themes/green-theme.css "></span>
+                <span class="palate olive-color " data-theme-file="css/color-themes/olive-theme.css "></span>
+                <span class="palate orange-color " data-theme-file="css/color-themes/orange-theme.css "></span>
+                <span class="palate purple-color " data-theme-file="css/color-themes/purple-theme.css "></span>
+                <span class="palate teal-color " data-theme-file="css/color-themes/teal-theme.css "></span>
+                <span class="palate brown-color " data-theme-file="css/color-themes/brown-theme.css "></span>
+                <span class="palate redd-color " data-theme-file="css/color-themes/redd-color.css "></span>
+            </div>
+        </div>
+
+        <h5>Other Options</h5>
+        <ul class="rtl-version option-box ">
+            <li class="rtl ">RTL Version</li>
+            <li>LTR Version</li>
+        </ul>
+
+        <a href="#" class="purchase-btn ">Purchase now $17</a>
+
+        <div class="palate-foo ">
+            <span>You will find much more options for colors and styling in admin panel. This color picker is used
+					only for demonstation purposes.</span>
+        </div>
+
+    </div>
+
+    <!-- Search Popup -->
+    <div class="search-popup ">
+        <button class="close-search style-two "><span class="flaticon-multiply "></span></button>
+        <button class="close-search "><span class="flaticon-up-arrow-1 "></span></button>
+        <form method="post " action="">
+            <div class="form-group ">
+                <input type="search " name="search-field " value=" " placeholder="Search Here " required=" ">
+                <button type="submit "><i class="fa fa-search "></i></button>
+            </div>
+        </form>
+    </div>
+    <!-- End Header Search -->
+
+    <!--Scroll to top-->
+    <div class="scroll-to-top scroll-to-target " data-target="html " style="display: block;"><span class="fa fa-arrow-up "></span></div>
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
 
 
 
 
-	
-	
 
 
-
-
-</body>
-</html>
+</body></html>
