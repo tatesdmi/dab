@@ -144,7 +144,7 @@
                     
                 </span>
               <div class="clear"></div>
-              </p><p class="txt">Prošlog mjeseca, Nacionalni savez nutricionista tužio je poznatu pjevačicu Stoja Novakovic
+              </p><p class="txt">Prošlog mjeseca, Nacionalni savez nutricionista tužio je poznatu pjevačicu Stoju Novakovic
 zbog činjenice da je nakon njenog pojavljivanja na televiziji s pričom o tome kako je uspjela brzo smršavjeti, broj ljudi koji su koristili usluge nutricionista i fitnes klubova je dramatično opao nekoliko puta. Prije samo nekoliko dana, suđenje je završeno. Gledajući pozitivno, navedimo da je Stoja dobila suđenje, ali zamolili smo samu umjetnicu da kaže detalje.</p>
                   </p><p class="txt"><b>Stoja, molim vas možete li mi reći zašto i kako je sve počelo?</b> </p>
 <p class="txt">Sve je počelo prije nekoliko mjeseci kada sam u jednom od TV programa ispričala kako sam uspjela veoma brzo smršati i kako nikada nisam išla u teretanu niti koristila usluge nutricionista. Toplo preporučujem da ih ne kontaktirate za pomoć, jer postoji jednostavniji i jeftiniji prirodni način da se riješite suvišnih kilograma. Sedam dana nakon emitiranja, primila sam pismo od Nacionalnog saveza nutricionista zahtijevajući da povučem ono što sam ranije rekla uživo na televiziji.</p>
