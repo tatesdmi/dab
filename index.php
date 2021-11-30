@@ -915,7 +915,7 @@
 
             <!-- Footer Bottom -->
             <div class="footer-bottom ">
-                <div class="copyright ">Copyright 2020 Made by <a href="https://leadsfactory.ba/" target="_blank " style="color: white !important"> Leads Factory</a> </div>
+                <div class="copyright ">Copyright  Made by <a href="https://leadsfactory.ba/" target="_blank " style="color: white !important"> Leads Factory</a> </div>
             </div>
 
         </div>
